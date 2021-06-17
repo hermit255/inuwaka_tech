@@ -3,3 +3,5 @@ languageCode = "ja"
 theme = "ananke"
 
 [params]
+  description = "あるフリーランスエンジニアの日記"
+  images = ["/images/gohugo-default-sample-hero-image.jpg"]
