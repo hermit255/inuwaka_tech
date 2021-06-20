@@ -1,6 +1,7 @@
 title = "Inuwaka Tech"
 languageCode = "ja"
 theme = "ananke"
+googleAnalytics = "UA-173531199-1"
 
 [params]
   description = "あるフリーランスエンジニアの日記"
