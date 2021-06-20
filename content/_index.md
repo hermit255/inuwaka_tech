@@ -1,7 +1,7 @@
 ---
-title: "イヌワカテック"
+title: "犬若テック"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: ""
+description: "流れのITドカ始めました"
 ---
 WEB系フリーランスエンジニアのブログ
 
