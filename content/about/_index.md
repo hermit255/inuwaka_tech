@@ -24,5 +24,3 @@ type : "about"
 と、うまいこと行職種変更に成功
 
 世のためになる発信や貢献ができないか試行錯誤しています
-
-{{< form-contact action="https://formspree.io/f/mvodrwwn" >}}

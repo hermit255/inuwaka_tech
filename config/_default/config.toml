@@ -2,16 +2,7 @@ title = "犬若テック"
 defaultContentLanguage  = "jp"
 languageCode = "ja"
 theme = "liva-hugo"
-googleAnalytics = "UA-173531199-1"
 
-[languages]
-  [languages.jp]
-    languagedirection = "日本語"
-    title = "犬若テック"
-    weight = 1
-  [languages.en]
-    title = "Inuwaka Tech"
-    weight = 1
 ######################## default configuration ####################
 summaryLength = "10"
 paginate = 6
@@ -101,7 +92,9 @@ googleAnalitycsID = "UA-173531199-1"
 # email = "demo@email.com"
 location = "Tokyo, Japan"
 # copyright
-copyright = "| copyright &copy; 2021 [Hermit255](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2021 Hermit255 All Rights Reserved |"
+
+contact_form = "https://formspree.io/f/mvodrwwn"
 
 # Preloader
 [params.preloader]

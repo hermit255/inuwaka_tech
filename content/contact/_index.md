@@ -10,4 +10,6 @@ description: "this is meta description"
 type : "contact"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+ご連絡、ご相談は以下のフォームからどうぞ
+
+請負、準委任などの形式でお仕事も随時募集しています
