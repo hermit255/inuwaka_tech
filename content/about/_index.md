@@ -25,4 +25,4 @@ type : "about"
 
 世のためになる発信や貢献ができないか試行錯誤しています
 
-{{< form-contact action="https://formspree.io/hermit255@gmail.com" >}}
+{{< form-contact action="https://formspree.io/f/mvodrwwn" >}}
