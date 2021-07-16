@@ -1,8 +1,17 @@
 title = "犬若テック"
+defaultContentLanguage  = "jp"
 languageCode = "ja"
 theme = "liva-hugo"
 googleAnalytics = "UA-173531199-1"
 
+[languages]
+  [languages.jp]
+    languagedirection = "日本語"
+    title = "犬若テック"
+    weight = 1
+  [languages.en]
+    title = "Inuwaka Tech"
+    weight = 1
 ######################## default configuration ####################
 summaryLength = "10"
 paginate = 6
@@ -80,7 +89,7 @@ disqusShortname = ""
 #################### default parameters ################################
 [params]
 description = "あるフリーランスエンジニアの日記"
-images = ["/images/gohugo-default-sample-hero-image.jpg"]
+images = ["/images/favicon.png"]
 
 logo = "images/logo.png"
 home = "Home"
@@ -136,6 +145,10 @@ expire_days = 2
 # title = "github"
 # icon = "ti-github" # themify icon : https://themify.me/themify-icons
 # link = "#"
+[[params.social]]
+title = "github"
+icon = "ti-github" # themify icon : https://themify.me/themify-icons
+link = "https://github.com/hermit255"
 
 # [[params.social]]
 # title = "linkedin"
