@@ -1,8 +1,11 @@
 version: '3'
 services:
   app:
-    image: klakegg/hugo:0.83.1
-    command: server
+    image: peaceiris/hugo:v0.85.0-full
+    command:
+      - server
+      - --bind=0.0.0.0
+      - --buildDrafts
     #entrypoint: sh
     volumes:
       - ".:/src"
