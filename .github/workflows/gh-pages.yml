@@ -28,5 +28,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          hugoVersion: extended_0.85.0
           publish_dir: ./public
           cname: inuwaka-blog.com
